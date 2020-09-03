@@ -46,8 +46,6 @@ QGIS, Kepler.gl, openRefine
 
 #### Tarea propuesta
 
-Exploración libre de los datos proporcionados o encontrados, en busca de hallazgos interesantes que puedan informar los proyectos, sobre todo en las áreas de estudio. Creación de mapas con la suma de dos o más capas y anotaciones sobrepuestas de hallazgos relevantes, en kepler.gl (o qgis si descubren cómo).
-
 La tarea consiste en familiarizarse con los conceptos, herramientas y fuentes de información revisadas durante la primera sesión. Para esto, se explorarán libremente los datos proporcionados o encontrados por los alumnos en qgis, open refine y kepler.gl, con el objetivo de comprenderlos y representarlos.
 
 La entrega consiste en un PDF en el que se recopilarán mapas (hechos en kepler) que representen la información geoespacial, idealmente diferenciando según atributos y sumando distintas capas.
