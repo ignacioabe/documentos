@@ -35,13 +35,24 @@ Para acelerar y facilitar el trabajo se proporcionarán los siguientes conjuntos
 - [permisos de edificación, INE](http://geoine-ine-chile.opendata.arcgis.com/search?q=permisos)
 - [institutos de educación parvularia, escolar y superior, MINEDUC](http://www.geoportal.cl/geoportal/catalog/search/resource/resumen.page?uuid=%7BDF31295E-846D-49A0-A964-2A0641133194%7D)
 
-#### Herramientas
+Otras fuentes interesantes para revisar
+
+- [shapes CIAS](https://drive.google.com/drive/folders/1_sMfB5Q0YtzBtf2akEehj9_7WlysHU3R?usp=sharing) 
+- [certificados de recepción final](http://geoine-ine-chile.opendata.arcgis.com/search?q=certificados)
+
+### Herramientas
 
 QGIS, Kepler.gl, openRefine
 
 #### Tarea propuesta
 
-Exploración libre de los datos proporcionados o encontrados, en busca de hallazgos interesantes que puedan informar los proyectos, sobre todo en las áreas de estudio. Creación de mapas con la suma de dos o más capas y anotaciones sobrepuestas de hallazgos relevantes.
+Exploración libre de los datos proporcionados o encontrados, en busca de hallazgos interesantes que puedan informar los proyectos, sobre todo en las áreas de estudio. Creación de mapas con la suma de dos o más capas y anotaciones sobrepuestas de hallazgos relevantes, en kepler.gl (o qgis si descubren cómo).
+
+La tarea consiste en familiarizarse con los conceptos, herramientas y fuentes de información revisadas durante la primera sesión. Para esto, se explorarán libremente los datos proporcionados o encontrados por los alumnos en qgis, open refine y kepler.gl, con el objetivo de comprenderlos y representarlos.
+
+La entrega consiste en un PDF en el que se recopilarán mapas (hechos en kepler) que representen la información geoespacial, idealmente diferenciando según atributos y sumando distintas capas.
+
+Los mapas deben ir acompañados textos descriptivos y anotaciones que sinteticen los hallazgos más relevantes encontrados durante el proceso de exploración.
 
 ### Sesión 2: creación de datos
 
@@ -80,7 +91,3 @@ Esta sesión estará principalmente dedicada a revisar los resultados del worksh
 #### Herramientas (opcionales)
 
 leaflet, mapbox, osmnx, etc
-
-<!-- ## Otras fuentes interesantes para revisar
-
-- [certificados de recepción final](http://geoine-ine-chile.opendata.arcgis.com/search?q=certificados) -->

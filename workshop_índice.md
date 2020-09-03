@@ -13,7 +13,7 @@ Excepto en la primera y última sesión.
 <!-- TEORÍA -->
 
 <!-- 30 minutos -->
-- introducción
+- introducción (usar pdf mapas)
   - presentación personal
     <!-- - experiencia como arquitecto
     - viaje por europa en bicicleta
@@ -101,8 +101,9 @@ Excepto en la primera y última sesión.
     - wiki
     - API overpass turbo (web y qgis)
   - gubernamentales
-    - IDE.cl (infraestructura de datos espaciales)
-    - CONASET
+    - <geoportal.cl> (infraestructura de datos espaciales)
+    - <CONASET.cl>
+    - <earthexplorer.usgs.gov/>
 
 - revisión de los datos en qgis
 - depuración en openrefine
