@@ -35,10 +35,14 @@ Para acelerar y facilitar el trabajo se proporcionarán los siguientes conjuntos
 - [permisos de edificación, INE](http://geoine-ine-chile.opendata.arcgis.com/search?q=permisos)
 - [institutos de educación parvularia, escolar y superior, MINEDUC](http://www.geoportal.cl/geoportal/catalog/search/resource/resumen.page?uuid=%7BDF31295E-846D-49A0-A964-2A0641133194%7D)
 
-Otras fuentes interesantes para revisar
+Y se proponen algunas fuentes de información pública para la búsqueda de información
 
-- [shapes CIAS](https://drive.google.com/drive/folders/1_sMfB5Q0YtzBtf2akEehj9_7WlysHU3R?usp=sharing) 
-- [certificados de recepción final](http://geoine-ine-chile.opendata.arcgis.com/search?q=certificados)
+- [CIAS](https://drive.google.com/drive/folders/1_sMfB5Q0YtzBtf2akEehj9_7WlysHU3R?usp=sharing)
+- [IDE Chile](http://www.ide.cl/index.php/informacion-territorial/descargar-informacion-territorial)
+- [geoportal](http://www.geoportal.cl/geoportal/catalog/main/home.page)
+- [Datos.gob.cl](http://datos.gob.cl/)
+- [geoportal MINVU](http://ide.minvu.cl/geoportal/catalog/main/home.page)
+- [IDE OCUC](https://ideocuc-ocuc.hub.arcgis.com/)
 
 ### Herramientas
 
@@ -46,11 +50,11 @@ QGIS, Kepler.gl, openRefine
 
 #### Tarea propuesta
 
-La tarea consiste en familiarizarse con los conceptos, herramientas y fuentes de información revisadas durante la primera sesión. Para esto, se explorarán libremente los datos proporcionados o encontrados por los alumnos en qgis, open refine y kepler.gl, con el objetivo de comprenderlos y representarlos.
+La tarea consiste en familiarizarse con los conceptos, herramientas y fuentes de información revisadas durante la primera sesión del workshop. Para esto, se explorarán libremente los datos proporcionados por el profesor o encontrados por los alumnos en las fuentes recién mencionadas, utilizando QGIS, OPEN REFINE y KEPLER.gl. Esta exploración tiene el objetivo de comprenderlos y representados, al menos de un modo preliminar.
 
-La entrega consiste en un PDF en el que se recopilarán mapas (hechos en kepler) que representen la información geoespacial, idealmente diferenciando según atributos y sumando distintas capas.
+La entrega consiste en un PDF en el que se recopilarán diversos mapas (hechos en kepler) que representen la información geoespacial, idealmente diferenciando según atributos y sumando distintas capas y técnicas. Cada uno de estos mapas debe ir acompañado de textos descriptivos y anotaciones que sinteticen los hallazgos más relevantes encontrados durante el proceso de exploración.
 
-Los mapas deben ir acompañados textos descriptivos y anotaciones que sinteticen los hallazgos más relevantes encontrados durante el proceso de exploración.
+Esta tarea es una oportunidad para comprender los campus a diversas escalas: metropolitana, comunal y local, y con distintos enfoques temáticos, sobreponiendo y conectando escalas y temas a través del análisis.
 
 ### Sesión 2: creación de datos
 
