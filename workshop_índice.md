@@ -111,6 +111,8 @@ Excepto en la primera y última sesión.
 
 ## Sesión 2: creación de datos
 
+<!-- TEORIA: 30 minutos -->
+
 - introducción
 - modos de creación de información geoespacial
   - vectorial
@@ -119,12 +121,12 @@ Excepto en la primera y última sesión.
     - encuestas
     - aplicaciones (uber, strava, etc)
     - geocodificación
-    - derivada de otros datos
+    - derivada (procesos vectoriales)
   - raster
     - vuelos
     - satélites
     - drones
-    - derivada de otros datos (ej: multibandas)
+    - derivada (procesos raster)
 
 - tipos de información
   - vectorial
@@ -132,24 +134,45 @@ Excepto en la primera y última sesión.
     - líneas
     - vectores
     - mixta*
+    - otros (mesh, LIDAR, etc)
   - raster
     - mapas de bits
+    - multiespectrales
     - otros
+
+<!-- PRÁCTICA: 75 minutos -->
 
 - herramientas
   - en terreno
-    - gps / app equivalente (opentracks)
-    - papel / field papers
-  - software
+    - GPS o app equivalente (opentracks)
+    - papel o field papers
+  - en el escritorio
     - QGIS
-    - interoperabilidad CAD / SIG
-    - excel / numbers / etc
-  - web
-    - openstreetmap
+      - importación de datos GPS
+      - interoperabilidad con AUTOCAD
+      - edición de capas
+        - creación de columnas nuevas y derivadas
+      - creación de capas
+        - src y campos
+        - imágenes de fondo (google + sectra)
+        - dibujo de geometrías
+        - ingreso datos
+        - edición de geometrías
+        - herramientas básicas de selección
+        - herramienta vectoriales
+          - de geoproceso
+          - de geometría
+          - de análisis
+    - OPENSTREETMAP
       - creación de cuenta
       - edición en ID
+        - puntos clave antes de editar*
+        - importación de datos GPS
         - trazado
         - claves / valores
+
+<!-- CORRECCIÓN PARCIAL DE TAREAS: 60 minutos -->
+<!-- ENTREGA DE TAREA 3: 15 minutos -->
 
 ## Sesión 3: visualización de datos
 

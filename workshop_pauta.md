@@ -39,12 +39,12 @@ Y se proponen algunas fuentes de información pública para la búsqueda de info
 
 - [CIAS](https://drive.google.com/drive/folders/1_sMfB5Q0YtzBtf2akEehj9_7WlysHU3R?usp=sharing)
 - [IDE Chile](http://www.ide.cl/index.php/informacion-territorial/descargar-informacion-territorial)
-- [geoportal](http://www.geoportal.cl/geoportal/catalog/main/home.page)
 - [Datos.gob.cl](http://datos.gob.cl/)
+- [geoportal](http://www.geoportal.cl/geoportal/catalog/main/home.page)
 - [geoportal MINVU](http://ide.minvu.cl/geoportal/catalog/main/home.page)
 - [IDE OCUC](https://ideocuc-ocuc.hub.arcgis.com/)
 
-### Herramientas
+#### Herramientas
 
 QGIS, Kepler.gl, openRefine
 
@@ -64,25 +64,30 @@ Como no basta con la información que se encuentra, en esta sesión veremos algu
 
 Luego, haremos una revisión práctica de cómo crear información nueva o derivada con herramientas abiertas o de fácil acceso, con foco en el trazado, la recolección en terreno, la superposición de capas y algunos geoprocesos. En esta misma línea, también se hará un tutorial de cómo editar y añadir información a OpenStreetMap.
 
-#### Herramientas_
+#### Herramientas
 
 QGIS, GPS, field papers, openstreetmap
 
-#### Tarea propuesta_
+#### Tarea propuesta
 
-Creación de información relevante al área de estudio, con recolección en terreno y trazado de fotos satelitales.
+La primera parte de la tarea consiste en utilizar lo aprendido durante la clase para sumar nuevas capas, dibujadas y/o derivadas, al conjunto de datos trabajado anteriormente. La idea es definir con mayor precisión los hallazgos (dinámicas, problemáticas, potenciales, etc) encontrados en la tarea 1. Estas nuevas capas deben realizarse tanto a la escala metropolitana como a la del contexto, con atención en la vinculación de ambas. Algunos ejemplos de temas de análisis son:
 
-Edición en OSM, mejorando y complementando los datos en las los polígonos de condominios sociales, con especial énfasis en los bloques de departamentos. Lo mismo para las inmediaciones del campus San Joaquín (los otros ya están relativamente mapeados).
+- zonas con baja densidad y buena infraestructura de transporte, o viceversa)
+- concentración de comercio vs espacios públicos
+
+La segunda parte de la tarea consiste en mejorar la calidad de información pública disponible en openstreetmap, pero para esto nos moveremos a otro contexto, el de los condominios de vivienda social (los campus ya están suficientemente mapeados). Esto es una colaboración entre el taller y el proyecto PLUS Chile.
+
+Para esto, la idea es añadir los edificios faltantes (la mayoría) a los condominios recién mencionados, distribuyendo el trabajo con un polígono para cada grupo y utilizando la etiqueta `note=catastro_plus`.
 
 ### Sesión 3: visualización de datos
 
 El volumen de la información y los sets de datos en general, hace que prácticamente sólo sea posible extraer ideas y conocimientos a partir de herramientas de análisis. Con la información geográfica ocurre lo mismo. Generalmente un sólo elemento puede contener muchos atributos, y estos pueden ser visualizados de muchos modos distintos. En esta sesión revisaremos un poco de la teoría básica de visualización de datos, y la aplicaremos a los geodatos seleccionados y encontrados por los alumnos. Como complemento veremos algunos tipos de análisis y visualizaciones no geográficas, basadas en un lenguaje de programación llamado python.
 
-#### Herramientas___
+#### Herramientas
 
 kepler-gl, QGIS y python / google collab
 
-#### Tarea propuesta___
+#### Tarea propuesta
 
 Creación de visualizaciones geográficas que permitan entender fenómenos urbanos del área de estudio (campus), idealmente combinando dos o más fuentes de información y utilizando visualización por atributos. Estas visualizaciones deben estar anotadas con hallazgos e ideas relevantes. Entrega en PDF y un mapa de KEPLER.
 
