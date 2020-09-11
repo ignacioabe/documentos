@@ -176,9 +176,24 @@ Excepto en la primera y última sesión.
 
 ## Sesión 3: visualización de datos
 
+<!-- TEORÍA: 30 minutos
+Idea básica sobre la disciplina visualización de datos -->
+
 - introducción
-  - en qué consiste la visualización de datos (variables a dimensiones)
-  - metodología (intención a herramientas)
+  - máximo contenido con el mínimo de medios (lenguaje conciso - Tufte)
+  - quién es el público?
+  - datos cuantitativos o cualitativos
+  - traducción de lenguajes
+    - cantidad
+    - cambio
+    - fecha / tiempo
+    - categoría
+    - etcétera
+  - variables visuales
+    - forma
+    - tamaño
+    - color
+    - etcétera
 
 - tipos de visualizaciones
   - gráficos
@@ -187,31 +202,42 @@ Excepto en la primera y última sesión.
     - barras / histograma
     - red
     - gantt
-    - etc...
+    - etc. (ver <http://ft-interactive.github.io/visual-vocabulary/>)
   - cartográficos
     - puntos
     - cúmulos (clusters)
     - agregación geométrica
     - cloroplastos
     - flujos
+    - mapa de calor
 
-- visualización de datos geoespaciales
-  - estáticos
-    - QGIS
-  - interactivos / web
-    - kepler.gl
-    - umap
-    - leaflet
-    - mapbox
+<!-- PARTE PRÁCTICA: 60 minutos
+Herramientas para profundizar en los datos, respondiendo preguntas más precisas, usando selecciones, estadísticas y quizás, gráficos. -->
 
-- visualización de datos en general
-  - tabulares
-    - python
-    - jupyter notebooks / google collab
-  - otros tipos de datos
-    - raster
-    - sonido
-    - etc
+<!-- añadir datos censo y condominios vivienda social -->
+- selección de datos según características (en QGIS)
+  - según atributo o expresión (+filtros)
+  - con herramientas de selección
+  - con polígono
+  - seleccionar por ubicación (vectorial > herr. de investigación)
+- columnas derivadas
+- estadísticas básicas
+- simbología graduada (pendiente*)
+
+- google collab / jupyter notebooks
+  - introducción python + pandas
+  - acceso directo a dato del workshop
+  - operaciones básicas
+    - operaciones y variables
+    - uso librerías: `import`
+    - cargar un archivo: `pd.read_csv()`
+    - revisión: `columns shape head() iloc[n] info()`
+    - filtros por atributo: `df = df[df['comuna] = 'Providencia']`
+    - estadísticas básicas: `sum() mean() value_counts() groupby()` etc.
+
+<!-- REVISIÓN ENTREGAS: 75 minutos -->
+
+<!-- ENTREGA TAREA: 15 minutos -->
 
 ## Sesión 4: recapitulación, anexos y otros
 

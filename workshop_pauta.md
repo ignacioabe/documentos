@@ -89,7 +89,9 @@ kepler-gl, QGIS y python / google collab
 
 #### Tarea propuesta
 
-Creación de visualizaciones geográficas que permitan entender fenómenos urbanos del área de estudio (campus), idealmente combinando dos o más fuentes de información y utilizando visualización por atributos. Estas visualizaciones deben estar anotadas con hallazgos e ideas relevantes. Entrega en PDF y un mapa de KEPLER.
+La tarea consiste en seguir avanzando en la investigación geoespacial, e incorporar lo aprendido en la sesión para complementar el ejercicio principal con estadísticas relevantes a las áreas de estudio y que tengan relación con las temáticas y fenómenos abordados a través del análisis previo. La idea es incorporar cifras que respalden las hipótesis de trabajo y permitan afinar los proyectos.
+
+Cada grupo deberá desarrollar además un cuaderno de google collab, el que iré supervisando durante la semana.
 
 ### Sesión 4: cierre y revisión resultados
 
